@@ -1,2 +1,6 @@
 # Roblox-game
-This project only includes the link to my roblox game:https://www.roblox.com/games/87636231279978/Survive-10-days-at-Matts-Hotel
+This project only includes my game file for Survive 3 nights at Matt's hotel!
+
+Survive 3 Nights at Matt's hotel is a horror game where a player is forced to run a hotel due to the fact that they need a job.  
+
+This game is still a work in progress. If any bugs are found, please report them. Thank you!
